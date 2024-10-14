@@ -75,7 +75,7 @@ button:hover {
   border: 1px solid #FF0070;
 }
 
-.header .KNPK2 {
+.header .Knopochka2 {
   position: absolute ;
   top: 723px;
   left: 20px;
@@ -89,7 +89,7 @@ button:hover {
   
 }
 
-.header .KNPK3 {
+.header .Knopochka3 {
   position:absolute;
   top: 20px;
   left: 979px;
@@ -105,7 +105,7 @@ button:hover {
 
 
 
-.header .KNPK1{
+.header .Knopochka1{
   position: absolute;
   width: 9px;
   height: 9px;
@@ -118,7 +118,7 @@ button:hover {
 
 }
 
-.header .knpkREC {
+.header .rec {
   position: absolute;
   width: 33px;
   height: 26px;
@@ -226,5 +226,71 @@ h1{
   position: absolute;
   width: 648.92px;
   height: 211px;
-  right: 20
+  right: 20.19px;
+  top: 33px;
+
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  
+
+
+  color: #F1B2CE;
+}
+
+a{
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  text-shadow: 2px 2px  #FF0070;
+  color: #F1B2CE;
+  text-decoration: none;
+
+  
+  
+  color: #F1B2CE;
+}
+
+a:hover{
+  color: #F1B2CE;
+  background-color: #2196f3;
+}
+
+
+.section1 .MCRtxt3{
+  position: absolute;
+  width: 648.92px;
+  height: 23px;
+  left: 355.08px;
+  top: 264px;
+  
+  font-family: 'IBM Plex Mono';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  background-color: #FF0070;
+  
+  color: #000028;
+
+}
+
+
+
+.section1 .BIGtxt2{
+  position: absolute;
+  width: 648.92px;
+  height: 211px;
+  left: 355.08px;
+  top: 297px;
+
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  
+
+
+  color: #F1B2CE;
 }
